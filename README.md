@@ -15,3 +15,22 @@ A teenager who loves `</Coding>`, **Gaming 🎮**, **Anime 🙌**, etc.
 ### ● All In 1 API
 > Get many APIs like Wikipedia, anime info, character info, anime actions. No need to search the whole google database for free APIs because All in 1 API is here. More Coming Soon...
 ![image](https://media.discordapp.net/attachments/937321259254034522/947036165125570571/unknown.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+*Pss.. Teach Me HTML and CSS*
