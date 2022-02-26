@@ -12,5 +12,6 @@ A teenager who loves `</Coding>`, **Gaming 🎮**, **Anime 🙌**, etc.
 ### ● Dishook
 > Dishook is a tool to send messages using webhooks in Discord.
 ![image](https://media.discordapp.net/attachments/937321259254034522/947034669218684978/unknown.png)
-
-
+### ● All In 1 API
+> Get many Apis like Wikipedia, anime info, character info, anime actions. No need to search the whole google database for free Apis because All in 1 Api is here. More Coming Soon...
+![image](https://media.discordapp.net/attachments/937321259254034522/947036165125570571/unknown.png)
