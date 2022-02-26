@@ -1,11 +1,9 @@
 # iFreaku
 A teenager who loves `</Coding>`, **Gaming**, **Anime**, etc.
 ## Interested in:
-- Python
-- Html 
-(lmaoo)
+- Python 
 ## Socials:
 > **Instagram:** [iFreaku (@ifreakuyt)](https://www.instagram.com/ifreakuyt/)<br>
 > **YouTube:** [iFreaku](https://www.youtube.com/channel/UCcIuJXUhGSWCbFKL3zDme3Q)
-## Discord Bots:
+## Projects:
 > **Dragon SMP:** [Invite](https://dsc.lol/dragonsmp-bot)
