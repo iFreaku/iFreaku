@@ -8,4 +8,4 @@ A teenager who loves `</Coding>`, **Gaming 🎮**, **Anime 🙌**, etc.
 ## Projects:
 > **Dishook:** [Click Here](https://dishook.glique.repl.co/)<br>
 > **All In 1 API:** [Click Here](https://allin1-api.glique.repl.co/)
-<iframe src="https://dishook.glique.repl.co/"></iframe>
+
